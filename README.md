@@ -2,6 +2,7 @@
 
 I'M A PASSIONATE DATA ENTHUSIAST WHO:
 
+
 💡 Thrives on unraveling complex challenges across diverse domains.
 
 🚀 Has taken on challenging projects in Bioinformatics, HPC, and Machine Learning.
@@ -15,5 +16,6 @@ I'M A PASSIONATE DATA ENTHUSIAST WHO:
 👩‍💻 An explorer at heart, constantly learning and evolving as a Data Scientist.
 
 🎓 Graduated with an MSc in Data Science and Analytics, ready for continuous growth.
+
 
 Connect with me, and let's embark on an exciting journey of data-driven discovery!
