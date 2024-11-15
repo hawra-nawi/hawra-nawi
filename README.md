@@ -68,11 +68,10 @@
 
 <h3 align="left">⚡ Fun fact:</h3>
 <div style="display: inline-block; align-items: center;">
-  <p style="margin-right: 10px;">I am working on building my custom ITX PC setup 🖥️</p>
-  <img src="https://media.tenor.com/2a4KThsm4YgAAAAj/gaming-game-on.gif" width="150" height="150" style="margin-right: 100px;">
-  <img src="https://media.tenor.com/qj-Ek3zJWsgAAAAM/hasbulla-funny.gif" width="150" height="150" style="margin-left: 500px>
+<p>I am working on building my custom ITX PC setup 🖥️ </p>
+<img src="https://media.tenor.com/2a4KThsm4YgAAAAj/gaming-game-on.gif" width="150" height="150">
+<img src="https://media.tenor.com/qj-Ek3zJWsgAAAAM/hasbulla-funny.gif" width="150" height="150">
 </div>
-
 
 ---
 
