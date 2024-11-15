@@ -137,11 +137,15 @@
 
 ---
 
-
 <h3 align="left">🏆 GitHub Profile Trophy:</h3>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=hawra-nawi" alt="hawra-nawi" />
   </a> 
 </p>
+
+---
+
+![snake gif](https://github.com/hawra-nawi/hawra-nawi/blob/output/github-snake-dark.svg)
+
 
