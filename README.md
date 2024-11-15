@@ -4,10 +4,10 @@
 ---
 
 <p align="left">
-  <a href="mailto:hawra.nawi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/hawra-nawi05/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://medium.com/@InsightfulBytes"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://www.tiktok.com/@hawra.tech"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="mailto:hawra.nawi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/hawra-nawi05/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@InsightfulBytes" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://www.tiktok.com/@hawra.tech" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
 </p>
 
 ---
@@ -43,8 +43,8 @@
 
 <h3 align="left">🌱 I’m currently learning:</h3>
 <p>
-  <img src="https://media.licdn.com/dms/image/v2/D4D12AQGa-Hn62oxekg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1675946903781?e=2147483647&v=beta&t=WOKLf7sZhnK_k5mAzGdGnweaDrH5_4EjyaPzqeRdH6k" alt="Google Analytics 4" width="100" height="80" />
-  <img src="https://media0.giphy.com/media/AXL7QkL4he28hC90Kj/200w.gif?cid=82a1493btpe6insijvtrrukloh8luioak33jtmtvrc0u4lcu&ep=v1_gifs_related&rid=200w.gif&ct=s" alt="SEMrush" width="100" height="80" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQGa-Hn62oxekg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1675946903781?e=2147483647&v=beta&t=WOKLf7sZhnK_k5mAzGdGnweaDrH5_4EjyaPzqeRdH6k" alt="Google Analytics 4" width="100" height="100" />
+  <img src="https://media0.giphy.com/media/AXL7QkL4he28hC90Kj/200w.gif?cid=82a1493btpe6insijvtrrukloh8luioak33jtmtvrc0u4lcu&ep=v1_gifs_related&rid=200w.gif&ct=s" alt="SEMrush" width="100" height="100" />
 </p>
 
 ---
@@ -52,7 +52,7 @@
 <h3 align="left">📈 I’m currently working towards:</h3>
 <p>
   <a href="https://cifa.ac/cifa-resume/9d012e2c-8afa-4fd4-86d6-a55867a34cec">
-    <img src="https://careeravenues.info/wp-content/uploads/2023/10/cfa-institute.jpeg" alt="CFA Qualification" width="100" height="80" />
+    <img src="https://careeravenues.info/wp-content/uploads/2023/10/cfa-institute.jpeg" alt="CFA Qualification" width="120" height="100" />
   </a>
 </p>
 
