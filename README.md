@@ -51,17 +51,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Analytics" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Hadoop" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" alt="PySpark" width="40" height="40"/>
+  <img src="https://images.freeimages.com/fic/images/icons/2796/metro_uinvert_dock/256/virtualbox.png" alt="Virtual Box" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/google-analytics-3.svg" alt="Google Analytics" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Tableau" width="40" height="40"/>
+  <img src="https://cdn.prod.website-files.com/6241bfd66a56ec4adc45e77e/66e04eb9247586f1da1ad7da_powerbi-yellow.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://freepngimg.com/download/icon/social_media/4245-hadoop.png" alt="Apache Hadoop" width="40" height="40"/>
+  <img src="https://grafana.com/media/solutions/apache-spark/apache-spark-logo-icon.png" alt="PySpark" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303239/raspberry-pi-logo.svg" alt="RaspberryPi" width="40" height="40"/> 
 </p>
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/> |
-| --- | --- | --- | --- | --- |
-| Java | React | Docker | PostgreSQL | Node.js |
-
 ---
 
 <h3 align="left">🏆 GitHub Profile Trophy:</h3>
