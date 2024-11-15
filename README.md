@@ -73,7 +73,9 @@
   <img src="https://media.tenor.com/qj-Ek3zJWsgAAAAM/hasbulla-funny.gif" width="150" height="150" style="margin-left: 500px>
 </div>
 
+
 ---
+
 
 <h3 align="left">🏆 GitHub Profile Trophy:</h3>
 <p align="left"> 
