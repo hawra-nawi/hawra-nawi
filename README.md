@@ -4,14 +4,18 @@
 ---
 
 <p align="left">
-  <a href="mailto:hawra.nawi@gmail.com" onclick="window.open(this.href, '_blank'); return false;">
+  <a href="mailto:hawra.nawi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/hawra-nawi05/" onclick="window.open(this.href, '_blank'); return false;">
+  <a href="https://www.linkedin.com/in/hawra-nawi05/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://medium.com/@InsightfulBytes" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://www.tiktok.com/@hawra.tech" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="https://medium.com/@InsightfulBytes">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+  </a>
+  <a href="https://www.tiktok.com/@hawra.tech" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
 </p>
 
 ---
@@ -24,13 +28,13 @@
 <h3 align="left">⚙️ Languages and Tools:</h3>
 <p>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="60" height="60"/>
+  <img src="https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/cdb9fc40-c6f2-4f7c-8b97-e65775edd9e3_rw_600.gif?h=55aa0d33e84b3dd200d095a3222da933" alt="R" width="60" height="60"/>
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="60" height="60"/>
   <img src="https://images.freeimages.com/fic/images/icons/2796/metro_uinvert_dock/256/virtualbox.png" alt="Virtual Box" width="60" height="60"/>
@@ -40,7 +44,7 @@
   <img src="https://media0.giphy.com/media/AXL7QkL4he28hC90Kj/200w.gif?cid=82a1493btpe6insijvtrrukloh8luioak33jtmtvrc0u4lcu&ep=v1_gifs_related&rid=200w.gif&ct=s" alt="SEMrush" width="60" height="60"/>
   <img src="https://freepngimg.com/download/icon/social_media/4245-hadoop.png" alt="Apache Hadoop" width="40" height="40"/>
   <img src="https://grafana.com/media/solutions/apache-spark/apache-spark-logo-icon.png" alt="PySpark" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303239/raspberry-pi-logo.svg" alt="RaspberryPi" width="40" height="40"/> 
+  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="RaspberryPi" width="40" height="40"/> 
 </p>
 
 ---
