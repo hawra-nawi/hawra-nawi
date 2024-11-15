@@ -1,8 +1,6 @@
 <h1 align="left">Hi there 👋 I'm Hawra</h1>
 <h3 align="left"> Just another girl in STEM with 5+ years of experience as a Data Analyst ✨👩‍💻</h3>
 
----
-
 <p align="left">
   <a href="mailto:hawra.nawi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -18,12 +16,11 @@
   </a>
 </p>
 
----
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawra-nawi&label=Profile%20views&color=be38f3&style=flat" alt="hawra-nawi" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hawra-nawi&show_icons=true&theme=dracula&locale=en" alt="hawra-nawi" /></p>
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=hawra-nawi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="hawra-nawi" /></p>
----
+<br>
 
 <h3 align="left">⚙️ Languages and Tools:</h3>
 <table>
@@ -108,16 +105,11 @@
 </table>
 
 
-
----
-
 <h3 align="left">🌱 I’m currently learning:</h3>
 <p>
   <img src="https://media.licdn.com/dms/image/v2/D4D12AQGa-Hn62oxekg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1675946903781?e=2147483647&v=beta&t=WOKLf7sZhnK_k5mAzGdGnweaDrH5_4EjyaPzqeRdH6k" alt="Google Analytics 4" width="100" height="100" />
   <img src="https://media0.giphy.com/media/AXL7QkL4he28hC90Kj/200w.gif?cid=82a1493btpe6insijvtrrukloh8luioak33jtmtvrc0u4lcu&ep=v1_gifs_related&rid=200w.gif&ct=s" alt="SEMrush" width="100" height="100" />
 </p>
-
----
 
 <h3 align="left">📈 I’m currently working towards:</h3>
 <p>
@@ -126,7 +118,6 @@
   </a>
 </p>
 
----
 
 <h3 align="left">⚡ Fun fact:</h3>
 <div style="display: inline-block; align-items: center;">
@@ -135,16 +126,12 @@
 <img src="https://media.tenor.com/qj-Ek3zJWsgAAAAM/hasbulla-funny.gif" width="150" height="150">
 </div>
 
----
-
 <h3 align="left">🏆 GitHub Profile Trophy:</h3>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=hawra-nawi" alt="hawra-nawi" />
   </a> 
 </p>
-
----
 
 ![snake gif](https://github.com/hawra-nawi/hawra-nawi/blob/output/github-snake-dark.svg)
 
