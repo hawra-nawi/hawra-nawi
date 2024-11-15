@@ -13,9 +13,8 @@
 ---
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawra-nawi&label=Profile%20views&color=be38f3&style=flat" alt="hawra-nawi" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hawra-nawi&show_icons=true&locale=en&layout=compact" alt="hawra-nawi" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hawra-nawi&show_icons=true&theme=dracula&locale=en" alt="hawra-nawi" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hawra-nawi&show_icons=true&theme=dracula&locale=en" alt="hawra-nawi" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=hawra-nawi&show_icons=true&theme=dracula&locale=en&layout=compact" alt="hawra-nawi" /></p>
 ---
 
 <h3 align="left">⚙️ Languages and Tools:</h3>
